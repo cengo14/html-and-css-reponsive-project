@@ -55,7 +55,5 @@ Proje ile ilgili herhangi bir sorunuz veya geri bildiriminiz varsa, lütfen [cen
 ## Görseller
 
 ![Desktop](desktop.gif)
-*Büyük Ekran Görünüm.*
 
 ![Mobile](mobile.gif)
-*Küçük ekran görünüm.*
