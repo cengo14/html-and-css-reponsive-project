@@ -1,6 +1,4 @@
-Tabii, HTML ve CSS ile hazırladığınız responsive doğa gezisi ve keşif sitesi için GitHub'da yayınlayabileceğiniz bir README dosyası aşağıdaki gibi olabilir:
 
-```markdown
 # Doğa Gezisi ve Keşif Sitesi
 
 Bu proje, HTML ve CSS kullanılarak hazırlanmış, responsive özelliklere sahip bir doğa gezisi ve keşif sitesidir. Amacı, doğa severlerin keşif yapmasını ve doğa gezilerini planlamasını kolaylaştırmaktır.
